@@ -1,4 +1,6 @@
-# DeptAssignmentFE
+# MovieVideoAppFE
+
+Angular 13 frontend for [MovieVideoAppBE](https://github.com/bmikolaj1/MovieVideoAppBE), a movie search app over public movie APIs.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
 
